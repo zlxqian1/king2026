@@ -4,19 +4,24 @@ import Link from "next/link";
 export default function Media() {
   const mediaList = [
     {
-      title: "代码",
+      title: "代码开源",
       linkText: "Github",
       link: "https://github.com/vectorisvector/inscription",
+    },
+    {
+      title: "推特",
+      linkText: "@kingbtc66",
+      link: "https://twitter.com/kingbtc66",
+    },
+    {
+      title: "电报",
+      linkText: "mint_2025",
+      link: "https://t.me/mint_2025",
     },
     {
       title: "开发者",
       linkText: "@cybervector_",
       link: "https://twitter.com/cybervector_",
-    },
-    {
-      title: "Alpha",
-      linkText: "@ChaunceyCrypto",
-      link: "https://twitter.com/ChaunceyCrypto",
     },
   ];
 
@@ -43,10 +48,6 @@ export default function Media() {
             </div>
           );
         })}
-      </div>
-
-      <div className=" text-center">
-        打赏地址☕️: 0xcb64546921145fe3fa1316d08e4af5b6b60d3945
       </div>
     </div>
   );
