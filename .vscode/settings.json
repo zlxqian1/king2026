@@ -1,0 +1,34 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.codeActionsOnSave.mode": "problems",
+  "css.lint.unknownAtRules": "ignore",
+  "cSpell.words": [
+    "ahooks",
+    "arbitrum",
+    "aval",
+    "camelark",
+    "celo",
+    "cybervector",
+    "ETHW",
+    "filecoin",
+    "fontsource",
+    "Fren",
+    "frenpet",
+    "gtag",
+    "Ierc",
+    "imgs",
+    "keccak",
+    "linea",
+    "rainbowkit",
+    "roboto",
+    "sepolia",
+    "shibarium",
+    "tailwindcss",
+    "viem",
+    "wagmi",
+    "xone"
+  ]
+}
