@@ -6,7 +6,7 @@ export default function Media() {
     {
       title: "代码开源",
       linkText: "Github",
-      link: "https://github.com/vectorisvector/inscription",
+      link: "https://github.com/zlxqian1/king2026",
     },
     {
       title: "推特",
